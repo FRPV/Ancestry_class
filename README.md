@@ -50,7 +50,7 @@ Usa las siguientes lineas de comando para instalar RFMix.
  6. Con la siguiente linea de comando comprueba la instalacion de RFMix:
 
 	```
-	python RunRFMix.py PopPhased ./TestData/alleles1.txt ./TestData/classes.txt ./TestData/markerLocationsChr1.txt - o outputPopPhased
+	python RunRFMix.py PopPhased ./TestData/alleles1.txt ./TestData/classes.txt ./TestData/markerLocationsChr1.txt -o outputPopPhased
 	```
 
 
