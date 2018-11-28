@@ -1,6 +1,6 @@
 Es recomendable crear una carpeta para la clase. En esta descargar RFMIx y el pipeline de Ancestria
 
-```bash
+```console
 #Ingresamos al directorio donde fue descargado RFMix
 
 cd RFMix_v1.5.4/
