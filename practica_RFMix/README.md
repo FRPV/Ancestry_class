@@ -52,3 +52,8 @@ cp ancestry_pipeline/centromeres_hg19.bed .
 
 python ancestry_pipeline/plot_karyogram.py --bed_a RFMix_v1.5.4/NA19755_results/NA19755_A.bed --bed_b RFMix_v1.5.4/NA19755_results/NA19755_B.bed --ind NA19755 --pop_order NAT,YRI,CEU --out NA19755_RFmix.png
 ```
+
+Se generara como resultado la siguiente imagen que describe los bloques de ancestría:
+
+
+![RFMix result](NA19755_RFmix.png)
