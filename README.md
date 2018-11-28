@@ -1,8 +1,11 @@
+*Texto sin acentos*
+
 # Clase de ancestria
 
 ## Descripcion
 
 Material de apoyo para la clase de ancestria en la LCG/CCG en Noviembre de 2018
+
 
 ## Pre-requisitos
 
