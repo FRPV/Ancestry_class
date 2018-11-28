@@ -38,7 +38,9 @@ Usa las siguientes lineas de comando para instalar RFMix.
 
 	`python RunRFMix.py PopPhased ./TestData/alleles1.txt ./TestData/classes.txt ./TestData/markerLocationsChr1.txt - o outputPopPhased`
 
+    
 
+    
     Giddyup
     Reading files
     Number of processors available: 2
@@ -63,5 +65,4 @@ Usa las siguientes lineas de comando para instalar RFMix.
     CRF on individual: 9
     Converting Window Calls to SNP Calls and Writing to File
     Cleaning up
-
 
