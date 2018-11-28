@@ -8,11 +8,11 @@ Material de apoyo para la clase de ancestria en la LCG/CCG en Noviembre de 2018
 
 - OS Linux/UNIX
 - Python v.2.7
-	- Paquetes de Python:
-		- matplotlib
-		- pylab
-		- brewer2mpl
-		- argparse
+- Paquetes de Python:
+	- matplotlib
+	- pylab
+	- brewer2mpl
+	- argparse
 
 
 En [esta guia](https://docs.python.org/3/installing/index.html) puedes encontrar mas informacion sobre la instalacion de paquetes de Python.
@@ -36,7 +36,7 @@ Usa las siguientes lineas de comando para instalar RFMix.
 
  4. Compila el script de analisis poblacional:
 
-	```
+	```shell
 	g++ -Wall -O3 -ftree-vectorize -fopenmp main.cpp getdata.cpp randomforest.cpp crfviterbi.cpp windowtosnp.cpp -o RFMix_PopPhased
 	```
 
@@ -79,3 +79,10 @@ Durante la ejecucion de prueba se generaran las siguientes lineas en pantalla, s
     Converting Window Calls to SNP Calls and Writing to File
     Cleaning up
 ```
+
+### Pipeline de ancestria de [armartin](https://github.com/armartin)
+
+1. En una carpeta diferente descarga el pipeline de ancestria:
+	```shell
+	git clone https://github.com/armartin/ancestry_pipeline.git
+	```
