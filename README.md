@@ -14,5 +14,6 @@ Material de apoyo para la clase de ancestria en la LCG/CCG en Noviembre de 2018
 ### RFMix
 
 Usa las siguientes lineas de comando para instalar RFMix.
+
 	wget https://www.dropbox.com/s/cmq4saduh9gozi9/RFMix_v1.5.4.zip
 
