@@ -28,17 +28,22 @@ Usa las siguientes lineas de comando para instalar RFMix.
 
  4. Compila el script de analisis poblacional:
 
-	`g++ -Wall -O3 -ftree-vectorize -fopenmp main.cpp getdata.cpp randomforest.cpp crfviterbi.cpp windowtosnp.cpp -o RFMix_PopPhased`
+	```
+	g++ -Wall -O3 -ftree-vectorize -fopenmp main.cpp getdata.cpp randomforest.cpp crfviterbi.cpp windowtosnp.cpp -o RFMix_PopPhased
+	```
 
  5. Regresa a directorio principal de RFMix:
 
 	`cd ..`
 
- 6. Prueba si RFMix se ejecuta correctamente:
+ 6. Con la siguiente linea de comando comprueba la instalacion de RFMix:
 
-	`python RunRFMix.py PopPhased ./TestData/alleles1.txt ./TestData/classes.txt ./TestData/markerLocationsChr1.txt - o outputPopPhased`
+	```
+	python RunRFMix.py PopPhased ./TestData/alleles1.txt ./TestData/classes.txt ./TestData/markerLocationsChr1.txt - o outputPopPhased
+	```
 
-    
+
+Durante la ejecucion de prueba se generaran las siguientes lineas en pantalla, si estas son generadas RFMix fue instalado correctamente.
 
 ```    
     Giddyup
