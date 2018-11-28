@@ -37,3 +37,31 @@ Usa las siguientes lineas de comando para instalar RFMix.
  6. Prueba si RFMix se ejecuta correctamente:
 
 	`python RunRFMix.py PopPhased ./TestData/alleles1.txt ./TestData/classes.txt ./TestData/markerLocationsChr1.txt - o outputPopPhased`
+
+
+    Giddyup
+    Reading files
+    Number of processors available: 2
+    Minimum node size: 1
+    Number of SNPs Read: 51231
+    Number of SNPs to Exclude: 0
+    Number left after pruning: 51231
+    Number of windows: 1183
+    Creating phasings
+    Done creating phasings
+    Growing forests
+    Applying Conditional Random Fields
+    CRF on individual: 0
+    CRF on individual: 1
+    CRF on individual: 2
+    CRF on individual: 3
+    CRF on individual: 4
+    CRF on individual: 5
+    CRF on individual: 6
+    CRF on individual: 7
+    CRF on individual: 8
+    CRF on individual: 9
+    Converting Window Calls to SNP Calls and Writing to File
+    Cleaning up
+
+
