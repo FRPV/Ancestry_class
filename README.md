@@ -8,6 +8,14 @@ Material de apoyo para la clase de ancestria en la LCG/CCG en Noviembre de 2018
 
 - OS Linux/UNIX
 - Python v.2.7
+ - Paquetes de Python:
+  - matplotlib
+  - pylab
+  - brewer2mpl
+  - argparse
+
+
+En [esta guia](https://docs.python.org/3/installing/index.html) puedes encontrar mas informacion sobre la instalacion de paquetes de Python.
 
 ## Programas a usar
 
