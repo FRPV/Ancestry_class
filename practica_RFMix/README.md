@@ -16,6 +16,9 @@ unzip NA19755_aux-results.zip
 
 unzip NA19755_input.zip
 
+#Creamos la carpeta donde se depositaran los resultados
+
+mkdir NA19755_results/
 
 #Ejecutamos RFMix en el cromosoma 1
 
