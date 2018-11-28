@@ -40,7 +40,7 @@ Usa las siguientes lineas de comando para instalar RFMix.
 
     
 
-    
+```    
     Giddyup
     Reading files
     Number of processors available: 2
@@ -65,4 +65,4 @@ Usa las siguientes lineas de comando para instalar RFMix.
     CRF on individual: 9
     Converting Window Calls to SNP Calls and Writing to File
     Cleaning up
-
+```
